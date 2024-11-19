@@ -1,2 +1,2 @@
-# 6__ESP32-basics__MQTT
+# MQTT connection setup.
 Simple code for MQTT setup on ESP32. 
